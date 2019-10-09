@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerCommandLine\\AnagramCheckerCommandLine.csproj": {}
+  },
+  "projects": {
+    "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerCommandLine\\AnagramCheckerCommandLine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerCommandLine\\AnagramCheckerCommandLine.csproj",
+        "projectName": "AnagramCheckerCommandLine",
+        "projectPath": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerCommandLine\\AnagramCheckerCommandLine.csproj",
+        "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
+        "outputPath": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerCommandLine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerLib\\AnagramCheckerLib.csproj": {
+                "projectPath": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerLib\\AnagramCheckerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerLib\\AnagramCheckerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerLib\\AnagramCheckerLib.csproj",
+        "projectName": "AnagramCheckerLib",
+        "projectPath": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerLib\\AnagramCheckerLib.csproj",
+        "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
+        "outputPath": "D:\\Schule\\5_Klasse\\Mobile_Computing\\Hausuebungen\\03_Anagrams\\anagram-checker-exercise-MarkusKurzmann\\AnagramCheckerExercise\\AnagramCheckerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\bin\Debug\netcoreapp3.0\AnagramCheckerLib.deps.json
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\bin\Debug\netcoreapp3.0\AnagramCheckerLib.dll
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.AssemblyInfo.cs
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\bin\Debug\netcoreapp3.0\AnagramCheckerLib.pdb
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.Properties.Resources.resources
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.csproj.GenerateResource.cache
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.dll
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\obj\Debug\netcoreapp3.0\AnagramCheckerLib.pdb
+D:\Schule\5_Klasse\Mobile_Computing\Hausuebungen\03_Anagrams\anagram-checker-exercise-MarkusKurzmann\AnagramCheckerExercise\AnagramCheckerLib\bin\Debug\netcoreapp3.0\anagrams.txt
